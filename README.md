@@ -1,4 +1,4 @@
-# internship_login_project
+# flutter-week1-login-app
 
 A new Flutter project.
 
